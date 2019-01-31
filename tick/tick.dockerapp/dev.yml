@@ -1,0 +1,3 @@
+ports:
+  telegraf: 8000
+  chronograf: 8001

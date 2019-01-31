@@ -1,0 +1,8 @@
+FROM ubuntu:16.04
+CMD echo "Hi MP IT INFOTECH"
+WORKDIR /tmp
+CMD pwd
+#ENTRYPOINT ["echo","Hi CTRM"]
+#ENTRYPOINT ["echo"]
+#CMD ["HELLO CTRM"]
+

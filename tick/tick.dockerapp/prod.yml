@@ -1,0 +1,3 @@
+ports:
+  telegraf: 9000
+  chronograf: 9001
